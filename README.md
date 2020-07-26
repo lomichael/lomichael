@@ -1,1 +1,1 @@
-### Hi there 👋 I'm a CS student 👨‍🎓 interested in software engineering 💻 
+### Hi there 👋 I'm a Computer Science student interested in software engineering 💻 
