@@ -1,1 +1,2 @@
-### Hi there 👋 I'm a Computer Science student interested in software engineering 💻 
+### Hi there 👋 
+## I'm a developer exploring many interests across web development, mobile development, crypto, and machine learning 💻 
