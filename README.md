@@ -1,4 +1,4 @@
 ## Hi there 👋 
-### I'm Michael Lo, a machine learning enthusiast and aspiring machine learning engineer!
+### I'm Michael Lo, an aspiring deep learning engineer!
 
-Currently, I'm building implementations of common machine learning algorithms to learn and internalize.
+Currently, I'm learning about the fundamentals of neural networks and building applications of deep learning for computer vision and natural language processing.
