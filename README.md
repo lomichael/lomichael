@@ -1,4 +1,6 @@
 ## Hi there 👋 
 ### I'm Michael Lo, a Computer Science student at UC Riverside.
 
-I'm currently involved in software engineering, focusing on iOS development and full stack web development. I'm also interested in machine learning.
+Professionally, I'm a software engineer, with a focus on product engineering. 
+
+I'm also currently reading about machine learning techniques in computer vision and natural language processing.
