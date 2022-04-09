@@ -1,10 +1,7 @@
 ## Hi there 👋 
-### I'm Michael Lo, a current third-year at University of California, Riverside pursuing my bachelor's in computer science with business applications.
+I'm Michael Lo, a current third-year at University of California, Riverside pursuing my bachelor's in computer science with business applications.
 
-## Skills
-Backend development using Node.js, Express.
-
-## Experience
+### Experience
 I have previous internship experience over two summers.
 
 At Liferay, I worked on refactoring a client's website and migrating the site over to the Liferay portal. I used HTML, CSS, and JavaScript primarily.
