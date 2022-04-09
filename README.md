@@ -1,5 +1,5 @@
 ## Hi there 👋 
-I'm Michael Lo, a current third-year at University of California, Riverside pursuing my bachelor's in computer science with business applications.
+I'm Michael Lo, a current third-year at University of California, Riverside pursuing my Bachelor's in Computer Science with Business Applications.
 
 ### Experience
 I have previous internship experience over two summers.
