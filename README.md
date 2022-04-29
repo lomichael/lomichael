@@ -1,4 +1,4 @@
-## Hi there 👋 
+# Hi there! 👨🏻‍💻
 I'm Michael Lo, a current student in my third year at University of California, Riverside, pursuing my Bachelor's in Computer Science with Business Applications.
 
 ### Experience
