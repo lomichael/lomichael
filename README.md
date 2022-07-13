@@ -12,4 +12,4 @@
 
 <img align="center" src="https://media4.giphy.com/media/5wFjITVDtKD0wwJe7V/giphy.gif?cid=ecf05e47unxrvbpce5di1pxszaz4nool32neh69inx142vcx&rid=giphy.gif&ct=g">
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lomichael&show_icons=true&theme=graywhite" alt="lomichael" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lomichael&show_icons=true&theme=graywhite" alt="lomichael" class="center"/>
