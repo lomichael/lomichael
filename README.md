@@ -4,8 +4,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-lomic8-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lomic8@gmail.com)](mailto:lomic8@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=lomichael&style=flat-square&color=blue" alt=""/>
 
-I'm a programmer currently finishing my B.S. in Computer Science at UC Riverside.
-I've done software internships at Liferay and AyyGo, building frontends for web and mobile apps.
+* Previously, I was building web and mobile frontends at Liferay and AyyGo.
+* Currently, I'm finishing my B.S. in Computer Science at UC Riverside.
+
+<img align="right" src="https://c.tenor.com/l_tQP6gd9AYAAAAC/hbo-watching.gif" />
+
 
 ### My Github Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lomichael&show_icons=true&theme=gruvbox" alt="lomichael" />
