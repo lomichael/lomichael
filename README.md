@@ -9,5 +9,5 @@
 * Open-source newbie
 * Rust fanboy
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=lomichael&show_icons=true&theme=gruvbox" alt="lomichael" />
-<img align="right" src="https://c.tenor.com/l_tQP6gd9AYAAAAC/hbo-watching.gif" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lomichael&show_icons=true&theme=gruvbox" alt="lomichael" />
+<img align="center" src="https://c.tenor.com/l_tQP6gd9AYAAAAC/hbo-watching.gif" />
