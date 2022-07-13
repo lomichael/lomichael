@@ -7,6 +7,7 @@
 <p>🔨 Former intern at <a href="https://www.liferay.com">Liferay</a> and <a href="https://www.ayygo.world">AyyGo</a></p>
 <p>🎓 Current undergraduate CS student at UC Riverside</p>
 <p>🤝 Open-source newbie</p>
+<p>👀 Interested in distributed systems, infrastructure, and machine learning</p>
 <p>💻 Learning C++, Rust, Python, Go</p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lomichael&show_icons=true&theme=gruvbox" alt="lomichael" />
