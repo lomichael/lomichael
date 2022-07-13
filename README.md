@@ -4,12 +4,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-lomic8-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lomic8@gmail.com)](mailto:lomic8@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=lomichael&style=flat-square&color=blue" alt=""/>
 
-<img align="right" src="https://media3.giphy.com/media/VgaAzZl6Lipkggp3cd/200w.gif?cid=82a1493b16wkf8rptbe78rf3b9zgmvxqaeawp33mf40z4jjv&rid=200w.gif&ct=g" />
-
 <p>🔨 Former intern at <a href="https://www.liferay.com">Liferay</a> and <a href="https://www.ayygo.world">AyyGo</a></p>
 <p>🎓 Current undergraduate CS student at UC Riverside</p>
 <p>🤝 Open-source newbie</p>
 <p>👀 Interested in distributed systems, infrastructure, and machine learning</p>
 <p>💻 Learning C++, Rust, Python, Go</p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lomichael&show_icons=true&theme=graywhite" alt="lomichael" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=lomichael&show_icons=true&theme=graywhite" alt="lomichael" />
+<img align="right" src="https://media3.giphy.com/media/VgaAzZl6Lipkggp3cd/200w.gif?cid=82a1493b16wkf8rptbe78rf3b9zgmvxqaeawp33mf40z4jjv&rid=200w.gif&ct=g" />
