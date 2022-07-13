@@ -10,5 +10,5 @@
 <p>👀 Interested in distributed systems, infrastructure, and machine learning</p>
 <p>💻 Learning C++, Rust, Python, Go</p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lomichael&show_icons=true&theme=gruvbox" alt="lomichael" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lomichael&show_icons=true&theme=default" alt="lomichael" />
 <img align="center" src="https://c.tenor.com/l_tQP6gd9AYAAAAC/hbo-watching.gif" />
