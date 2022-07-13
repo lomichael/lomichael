@@ -11,4 +11,4 @@
 <p>💻 Learning C++, Rust, Python, Go</p>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=lomichael&show_icons=true&theme=graywhite" alt="lomichael" />
-<img align="right" src="https://media3.giphy.com/media/VgaAzZl6Lipkggp3cd/200w.gif?cid=82a1493b16wkf8rptbe78rf3b9zgmvxqaeawp33mf40z4jjv&rid=200w.gif&ct=g" />
+<img align="right" src="https://media4.giphy.com/media/5wFjITVDtKD0wwJe7V/giphy.gifcid=ecf05e47unxrvbpce5di1pxszaz4nool32neh69inx142vcx&rid=giphy.gif&ct=g" />
