@@ -1,3 +1,5 @@
+<img src="https://komarev.com/ghpvc/?username=lomichael&style=flat-square&color=blue" alt=""/>
+
 # Hi, welcome to my Github! 👨🏻‍💻
 I'm Michael Lo, a student pursuing my Bachelor's degree in Computer Science at University of California, Riverside.
 
