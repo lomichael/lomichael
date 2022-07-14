@@ -11,7 +11,7 @@
 <p> 🎓 Current undergraduate CS student at UC Riverside</p>
 <p> 🤝 Open-source newbie</p>
 <p> 💻 Interested in distributed systems, infrastructure, and machine learning</p>
-<p> 👨‍💻 Learning C++, Rust, Python, Go</p>
+<p> 👨‍💻 Learning and working with Rust, C++, and Python</p>
 </div>
 
 <div align="left>
