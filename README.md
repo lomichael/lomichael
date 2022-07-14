@@ -5,9 +5,9 @@
 <img src="https://komarev.com/ghpvc/?username=lomichael&style=flat-square&color=blue" alt=""/>
 
 <h2>About Me</h2>
-<p align="right"> <img align="right" src="https://github-readme-stats.vercel.app/api?username=lomichael&show_icons=true&theme=graywhite" alt="lomichael" /></p>
+<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=lomichael&show_icons=true&theme=graywhite" alt="lomichael" /></p>
 
-<div align="left">
+<div align="right">
 <ul>
 <li> Former intern at <a href="https://www.liferay.com">Liferay</a> and <a href="https://www.ayygo.world">AyyGo</a></li>
 <li> Current undergraduate CS student at UC Riverside</li>
@@ -16,7 +16,5 @@
 <li> Learning C++, Rust, Python, Go</li>
 </ul>
 </div>
-
-<hr>
 
 <p align="center"><img align="center" src="https://media4.giphy.com/media/5wFjITVDtKD0wwJe7V/giphy.gif?cid=ecf05e47unxrvbpce5di1pxszaz4nool32neh69inx142vcx&rid=giphy.gif&ct=g"></p>
