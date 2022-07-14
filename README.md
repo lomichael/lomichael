@@ -4,10 +4,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-lomic8-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lomic8@gmail.com)](mailto:lomic8@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=lomichael&style=flat-square&color=blue" alt=""/>
 
+<h2>About Me</h2>
 <p align="right"> <img align="right" src="https://github-readme-stats.vercel.app/api?username=lomichael&show_icons=true&theme=graywhite" alt="lomichael" /></p>
 
 <div align="left">
-<h2>About Me</h2>
 <p>🔨 Former intern at <a href="https://www.liferay.com">Liferay</a> and <a href="https://www.ayygo.world">AyyGo</a></p>
 <p>🎓 Current undergraduate CS student at UC Riverside</p>
 <p>🤝 Open-source newbie</p>
