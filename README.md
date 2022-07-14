@@ -15,4 +15,5 @@
 <p>💻 Learning C++, Rust, Python, Go</p>
 </div>
 
+<h2>My Github Stats</h2>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lomichael&show_icons=true&theme=graywhite" alt="lomichael" /></p>
