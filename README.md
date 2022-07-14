@@ -8,11 +8,13 @@
 <p align="right"> <img align="right" src="https://github-readme-stats.vercel.app/api?username=lomichael&show_icons=true&theme=graywhite" alt="lomichael" /></p>
 
 <div align="left">
-<p>🔨 Former intern at <a href="https://www.liferay.com">Liferay</a> and <a href="https://www.ayygo.world">AyyGo</a></p>
-<p>🎓 Current undergraduate CS student at UC Riverside</p>
-<p>🤝 Open-source newbie</p>
-<p>👀 Interested in distributed systems, infrastructure, and machine learning</p>
-<p>💻 Learning C++, Rust, Python, Go</p>
+<ul>
+<li>🔨 Former intern at <a href="https://www.liferay.com">Liferay</a> and <a href="https://www.ayygo.world">AyyGo</a></li>
+<li>🎓 Current undergraduate CS student at UC Riverside</li>
+<li>🤝 Open-source newbie</li>
+<li>👀 Interested in distributed systems, infrastructure, and machine learning</li>
+<li>💻 Learning C++, Rust, Python, Go</li>
+</ul>
 </div>
 
 <p align="center"><img align="center" src="https://media4.giphy.com/media/5wFjITVDtKD0wwJe7V/giphy.gif?cid=ecf05e47unxrvbpce5di1pxszaz4nool32neh69inx142vcx&rid=giphy.gif&ct=g"></p>
