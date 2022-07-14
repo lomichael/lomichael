@@ -8,11 +8,11 @@
 
 <div align="left">
 <ul>
-<li> Former intern at <a href="https://www.liferay.com">Liferay</a> and <a href="https://www.ayygo.world">AyyGo</a></li>
-<li> Current undergraduate CS student at UC Riverside</li>
-<li> Open-source newbie</li>
-<li> Interested in distributed systems, infrastructure, and machine learning</li>
-<li> Learning C++, Rust, Python, Go</li>
+<li> 💼 Former intern at <a href="https://www.liferay.com">Liferay</a> and <a href="https://www.ayygo.world">AyyGo</a></li>
+<li> 🎓 Current undergraduate CS student at UC Riverside</li>
+<li> 🤝 Open-source newbie</li>
+<li> 💻 Interested in distributed systems, infrastructure, and machine learning</li>
+<li> 👨‍💻 Learning C++, Rust, Python, Go</li>
 </ul>
 </div>
 
