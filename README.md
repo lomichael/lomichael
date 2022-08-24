@@ -10,7 +10,7 @@
 <p> 💼 Former intern at <a href="https://www.liferay.com">Liferay</a> and <a href="https://www.ayygo.world">AyyGo</a></p>
 <p> 🎓 Current undergraduate CS student at UC Riverside</p>
 <p> 🤝 Open-source newbie</p>
-<p> 💻 Interested in distributed systems, infrastructure, and machine learning</p>
+<p> 💻 Interested in infrastructure, cybersecurity, and machine learning</p>
 <p> 👨‍💻 I enjoy working with Rust, C, and Python</p>
 </div>
 
