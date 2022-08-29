@@ -8,9 +8,9 @@
 
 <div align="left">
 <p> 💼 Former intern at <a href="https://www.liferay.com">Liferay</a> and <a href="https://www.ayygo.world">AyyGo</a></p>
-<p> 🎓 Current undergraduate CS student at UC Riverside</p>
+<p> 🎓 Current undergraduate computer science student at UC Riverside</p>
 <p> 🤝 Open-source newbie</p>
-<p> 💻 Interested in systems programming, cybersecurity, and machine learning</p>
+<p> 💻 Interested in systems programming and artificial intelligence</p>
 <p> 👨‍💻 I enjoy working with Rust, C, and Python</p>
 </div>
 
