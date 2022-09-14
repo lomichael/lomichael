@@ -10,7 +10,7 @@
 <p> 💼 Former intern at <a href="https://www.liferay.com">Liferay</a> and <a href="https://www.ayygo.world">AyyGo</a></p>
 <p> 🎓 Current undergraduate computer science student at UC Riverside</p>
 <p> 🤝 Open-source newbie</p>
-<p> 💻 Interested in systems programming, reinforcement learning, and self-driving cars</p>
+<p> 💻 Interested in reinforcement learning, computer vision, and self-driving cars</p>
 <p> 👨‍💻 I work with C, C++, and Python</p>
 </div>
 
