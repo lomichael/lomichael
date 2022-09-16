@@ -7,9 +7,8 @@
 <h2>About Me</h2>
 
 <div align="left">
-<p> 💼 Former intern at <a href="https://www.liferay.com">Liferay</a> and <a href="https://www.ayygo.world">AyyGo</a></p>
 <p> 🎓 Current undergraduate computer science student at UC Riverside</p>
-<p> 🤝 Open-source newbie</p>
+<p> 🤝 Learning open-source</p>
 <p> 💻 Interested in self-driving cars</p>
 <p> 👨‍💻 I work with C, C++, and Python</p>
 </div>
