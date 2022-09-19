@@ -8,9 +8,9 @@
 
 <div align="left">
 <p> 🎓 Current undergraduate computer science student at UC Riverside</p>
-<p> 🤝 Learning open-source</p>
-<p> 💻 Interested in self-driving cars</p>
-<p> 👨‍💻 I work with C, C++, and Python</p>
+<p> 🤝 Starting out in open-source</p>
+<p> 💻 Interested in artificial intellience and self-driving cars</p>
+<p> 👨‍💻 I work with Python, C/C++, and PyTorch</p>
 </div>
 
 <div align="left>
