@@ -7,10 +7,9 @@
 <h2>About Me</h2>
 
 <div align="left">
-<p> 🎓 Current undergraduate computer science student at UC Riverside</p>
-<p> 🤝 Starting out in open-source</p>
-<p> 💻 Interested in artificial intellience and compilers</p>
-<p> 👨‍💻 I work with Python, C/C++, and PyTorch</p>
+<p> 🎓 Current senior studying Computer Science at UC Riverside</p>
+<p> 💻 Interested in artificial intellience, compilers, and programming language design</p>
+<p> 👨‍💻 I'm currently learning and using Python, C/C++, Lisp, PyTorch</p>
 </div>
 
 <div align="left>
