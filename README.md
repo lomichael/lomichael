@@ -9,7 +9,7 @@
 <div align="left">
 <p> 🎓 Current senior studying Computer Science at UC Riverside</p>
 <p> 💻 Interested in artificial intellience, compilers, and programming language design</p>
-<p> 👨‍💻 I'm currently learning and using Python, C/C++, Lisp, PyTorch</p>
+<p> 👨‍💻 C, C++, Python, Rust</p>
 </div>
 
 <div align="left>
