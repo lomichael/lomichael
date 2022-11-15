@@ -8,8 +8,8 @@
 
 <div align="left">
 <p> 🎓 Current senior studying Computer Science at UC Riverside</p>
-<p> 💻 Interested in artificial intellience, compilers, and programming language design</p>
-<p> 👨‍💻 Python, Rust, C, C++</p>
+<p> 💻 Interested in security, blockchains, artificial intellience, and compilers</p>
+<p> 👨‍💻 Solidity, Python, Rust, C, C++</p>
 </div>
 
 <div align="left>
