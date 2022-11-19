@@ -7,7 +7,7 @@
 <h2>About Me</h2>
 
 <div align="left">
-<p> 🎓 Current senior studying Computer Science at UC Riverside</p>
+<p> 🎓 Current computer science student</p>
 <p> 💻 Interested in security, blockchains, artificial intellience, and compilers</p>
 <p> 👨‍💻 Solidity, Python, Rust, C, C++</p>
 </div>
