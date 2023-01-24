@@ -1,6 +1,6 @@
 # Hi, I'm Michael 👋🏼
 [![Website Badge](https://img.shields.io/badge/-lomikee.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://lomikee.com)](https://lomikee.com)
-[![Gmail Badge](https://img.shields.io/badge/-lomic8-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lomichael@pm.me)](mailto:lomichael@pm.me)
+[![Gmail Badge](https://img.shields.io/badge/-lomichael-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lomichael@pm.me)](mailto:lomichael@pm.me)
 <img src="https://komarev.com/ghpvc/?username=lomichael&style=flat-square&color=blue" alt=""/>
 
 <h2>About Me</h2>
