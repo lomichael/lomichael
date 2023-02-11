@@ -7,9 +7,9 @@
 
 <div align="left">
 <p> 🎓 Current computer science student</p>
-<p> 💻 Interested in artificial intelligence and psychology</p>
+<p> 💻 Interested in artificial intelligence and quantum computing</p>
 <p> 👨‍💻 Python, C, C++</p>
-<p> 🧠 PyTorch, Tensorflow, scikit-learn </p>
+<p> 🧠 PyTorch, scikit-learn </p>
 </div>
 
 <div align="left>
