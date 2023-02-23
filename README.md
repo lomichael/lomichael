@@ -7,7 +7,7 @@
 
 <div align="left">
 <p> 🎓 Current computer science student</p>
-<p> 💻 Interested in artificial intelligence, finance, and games</p>
+<p> 💻 Artificial intelligence and compilers</p>
 <p> 👨‍💻 Python, C, C++</p>
 <p> 🧠 PyTorch, scikit-learn </p>
 </div>
