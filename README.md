@@ -6,10 +6,10 @@
 <h2>About Me</h2>
 
 <div align="left">
-<p> 🎓 Current computer science student</p>
-<p> 💻 Artificial intelligence, compilers, and programming languages</p>
-<p> 👨‍💻 Python, C, C++</p>
-<p> 🧠 PyTorch, scikit-learn </p>
+<p> 🎓 Computer science undergraduate at University of California, Riverside</p>
+<p> 💻 Machine learning and artificial intelligence</p>
+<p> 👨‍💻 Python, C, C++, Rust</p>
+<p> 🧠 PyTorch, scikit-learn</p>
 </div>
 
 <div align="left>
