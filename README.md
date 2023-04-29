@@ -7,8 +7,8 @@
 
 <div align="left">
 <p> 🎓 Computer science undergraduate at University of California, Riverside</p>
-<p> 💻 Broadly interested in artificial intelligence, compilers, and cybersecurity</p>
-<p> 👨‍💻 Python, C, C++, Solidity</p>
+<p> 💻 Interested in artificial intelligence, compilers, and neuroscience</p>
+<p> 👨‍💻 Python, C, C++, Rust</p>
 <p> 🧠 PyTorch, scikit-learn</p>
 </div>
 
