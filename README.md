@@ -7,7 +7,7 @@
 
 <div align="left">
 <p> 🎓 Computer science undergraduate at University of California, Riverside</p>
-<p> 💻 Focused on transformers, AI safety, interpretability, and explainability</p>
+<p> 💻 Focused on AI safety, transformers, and compilers</p>
 <p> 👨‍💻 Python, C, C++, Rust</p>
 <p> 🧠 PyTorch, scikit-learn</p>
 </div>
