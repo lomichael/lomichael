@@ -6,8 +6,8 @@
 <h2>About Me</h2>
 
 <div align="left">
-<p> 🎓 Computer science undergraduate at University of California, Riverside</p>
-<p> 💻 Research engineering for transformers, reinforcement learning, and AI alignment</p>
+<p> 🎓 Computer science undergraduate at the University of California, Riverside</p>
+<p> 💻 Learning research engineering for AI safety, transformers, and reinforcement learning</p>
 <p> 👨‍💻 Python, PyTorch, NumPy</p>
 </div>
 
