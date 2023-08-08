@@ -7,7 +7,7 @@
 
 <div align="left">
 <p> 🎓 Computer science undergraduate at the University of California, Riverside</p>
-<p> 💻 Learning AI safety research engineering and quantum computing</p>
+<p> 💻 Learning AI safety, quantum computing, and compilers/p>
 <p> 👨‍💻 Python, PyTorch</p>
 </div>
 
