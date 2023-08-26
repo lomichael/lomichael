@@ -6,8 +6,8 @@
 <h2>About Me</h2>
 
 <div align="left">
-<p> 🎓 Computer science undergraduate at the University of California, Riverside</p>
-<p> 💻 AI Alignment Research Scientist/Engineer</p>
+<p> 🎓 UC Riverside BSCS, Georgia Tech MSCS Student</p>
+<p> 💻 Research engineer in AI alignment and interpretability</p>
 <p> 👨‍💻 Python, PyTorch</p>
 </div>
 
