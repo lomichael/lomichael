@@ -6,8 +6,8 @@
 <h2>About Me</h2>
 
 <div align="left">
-<p> 🎓 UC Riverside BSCS, Georgia Tech MSCS Student</p>
 <p> 💻 Research engineer in AI alignment and interpretability</p>
+<p> 🎓 MS Computer Science @ Georgia Tech, BS Computer Science @ UC Riverside</p>
 <p> 👨‍💻 Python, PyTorch</p>
 </div>
 
