@@ -6,7 +6,7 @@
 <h2>About Me</h2>
 
 <div align="left">
-<p>Academically, I'm graduating with my Bachelor's in Computer Science from UC Riverside and I'm starting my Master's in Computer Science at Georgia Tech.</p>
+<p>I'm an incoming MSCS student at Georgia Tech with a BSCS from UC Riverside.</p>
   
 <p>Professionally, I'm upskilling in research engineering for AI alignment and interpretability. I'm implementing papers and techniques in transformers, reinforcement learning, and mechanistic interpretability. Also, I'm learning how to scale model training to many GPUs using parallelism. You can see some of my projects here:</p>
 </div>
