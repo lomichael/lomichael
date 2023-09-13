@@ -8,16 +8,8 @@
 <div align="left">
 <p>I'm an incoming MSCS student at Georgia Tech with a BSCS from UC Riverside.</p>
   
-<p>Professionally, I'm upskilling in research engineering for AI alignment and interpretability. I'm implementing papers and techniques in transformers, reinforcement learning, and mechanistic interpretability. Also, I'm learning how to scale model training to many GPUs using parallelism. You can see some of my projects here:</p>
+<p>Professionally, I'm upskilling in research engineering for AI alignment and interpretability. I'm implementing papers and techniques in transformers, reinforcement learning, and mechanistic interpretability. Also, I'm learning how to scale model training to many GPUs using parallelism.</p>
 </div>
-
-- [Implementing and fine-tuning transformers](https://www.github.com/lomikee/transformer-implementations)
-- [Reverse-engineering models and finding circuits](https://www.github.com/lomikee/model-circuits)
-- [Replicating superposition papers](https://www.github.com/lomikee/superposition)
-- [Implementing reinforcement learning algorithms](https://www.github.com/lomikee/rl-implementations)
-- [Training and fine-tuning models with RLHF](https://www.github.com/lomikee/rlhf-training-finetuning)
-- [Implementing 3D parallelism for distributed training](https://www.github.com/lomikee/distributed-parallel-training)
-- [Red-teaming models](https://www.github.com/lomikee/red-teaming)
 
 <div align="left>
 <p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=lomikee&show_icons=true&theme=default" alt="lomikee" /></p>
