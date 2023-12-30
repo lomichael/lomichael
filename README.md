@@ -6,9 +6,9 @@
 <h2>About Me</h2>
 
 <div align="left">
-<p>I'm an incoming MSCS student at Georgia Tech with a BSCS from UC Riverside.</p>
+<p>Academically, I am an MSCS student at Georgia Tech with a BSCS from UC Riverside.</p>
   
-<p>Professionally, I'm upskilling in research and engineering for AI alignment and interpretability. I'm implementing papers and techniques in transformers, reinforcement learning, and mechanistic interpretability. Also, I'm learning how to scale model training to many GPUs using parallelism.</p>
+<p>Professionally, I'm interested in compilers, distributed systems, and artificial intelligence.</p>
 </div>
 
 <div align="left>
