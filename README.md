@@ -6,7 +6,8 @@
 <h2>About Me</h2>
 
 <div align="left">
-<p>Master's in Computer Science student at Georgia Tech. Currently, I'm looking for software engineering and compiler engineering roles.</p>
+<p>Master's in Computer Science student at Georgia Tech.</p>
+<p>Currently, I'm looking for software engineering and compiler engineering roles.</p>
 </div>
 
 <div align="left>
