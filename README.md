@@ -13,5 +13,3 @@
 <div align="left>
 <p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=lomikee&show_icons=true&theme=graywhite" alt="lomikee" /></p>
 </div>
-
-<p align="left"><img align="left" src="https://media4.giphy.com/media/5wFjITVDtKD0wwJe7V/giphy.gif?cid=ecf05e47unxrvbpce5di1pxszaz4nool32neh69inx142vcx&rid=giphy.gif&ct=g"></p>
