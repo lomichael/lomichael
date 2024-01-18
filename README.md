@@ -1,14 +1,12 @@
 # Hi, I'm Michael 👋🏼
 [![Website Badge](https://img.shields.io/badge/-mikeelo.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://mikeelo.com)](https://mikeelo.com)
-[![Gmail Badge](https://img.shields.io/badge/-lomic8-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lomic8@gmail.com)](mailto:lomic8@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-lomic8-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:michael.lo.work@gmail.com)](mailto:michael.lo.work@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=lomichael&style=flat-square&color=blue" alt=""/>
 
 <h2>About Me</h2>
 
 <div align="left">
-<p>Academically, I am an MSCS student at Georgia Tech with a BSCS from UC Riverside.</p>
-  
-<p>Professionally, I'm interested in compilers, distributed systems, and artificial intelligence.</p>
+<p>Master's in Computer Science student at Georgia Tech. Currently, I'm looking for software engineering and compiler engineering roles.</p>
 </div>
 
 <div align="left>
