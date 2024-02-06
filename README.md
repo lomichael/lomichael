@@ -1,7 +1,7 @@
 # Hi, I'm Michael 👋🏼
-[![Website Badge](https://img.shields.io/badge/-mikeelo.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://mikeelo.com)](https://mikeelo.com)
-[![Gmail Badge](https://img.shields.io/badge/-lomic8-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:michael.lo.work@gmail.com)](mailto:michael.lo.work@gmail.com)
-<img src="https://komarev.com/ghpvc/?username=lomichael&style=flat-square&color=blue" alt=""/>
+[![Website Badge](https://img.shields.io/badge/-mikeelo.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.lomikee.com)](https://www.lomikee.com)
+[![Gmail Badge](https://img.shields.io/badge/-michael.lo.work-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:michael.lo.work@gmail.com)](mailto:michael.lo.work@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=lomikee&style=flat-square&color=blue" alt=""/>
 
 <h2>About Me</h2>
 
