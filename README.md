@@ -9,7 +9,3 @@
 <p>Master's in Computer Science student at Georgia Tech.</p>
 <p>Currently, I'm looking for software engineering and AI safety roles.</p>
 </div>
-
-<div align="left>
-<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=lomichael&show_icons=true&theme=graywhite" alt="lomichael" /></p>
-</div>
