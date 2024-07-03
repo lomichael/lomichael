@@ -6,6 +6,6 @@
 <h2>About Me</h2>
 
 <div align="left">
-<p>Master's in Computer Science student at Georgia Tech.</p>
-<p>Currently, I'm looking for software engineering and AI safety roles.</p>
+<p>Computer Science Master's student at Georgia Tech.</p>
+<p>Building software to support AI research.</p>
 </div>
